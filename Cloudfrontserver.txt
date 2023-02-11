@@ -1,0 +1,3 @@
+user/pass: Master:master2
+
+host: d3thfidru0i7ps.cloudfront.net
